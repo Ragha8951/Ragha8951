@@ -4,6 +4,8 @@
 <br>
 -🌱 I’m currently pursuing engineering and actively learning Python, machine learning, and web development technologies.
 <br>
+🎸 I’m a passionate guitar learner and love discovering new music.
+<br>
 -💞️ I’m looking to collaborate on innovative machine learning projects, web development, and real-world applications.
 <br>
 -📫 How to reach me:
