@@ -7,9 +7,10 @@
 -💞️ I’m looking to collaborate on innovative machine learning projects, web development, and real-world applications.
 <br>
 -📫 How to reach me:
-     LinkedIn: www.linkedin.com/in/raghavendra-s-shettigar-b465ba24b
      <br>
-     Email: ragha8951@gmail.com
+     <b>LinkedIn: www.linkedin.com/in/raghavendra-s-shettigar-b465ba24b</b>
+     <br>
+     <b>Email: ragha8951@gmail.com</b>
 
 <!---
 Ragha8951/Ragha8951 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
