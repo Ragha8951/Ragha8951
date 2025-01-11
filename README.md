@@ -1,7 +1,11 @@
 -👋 Hi, I’m @Ragha8951
+<br>
 -👀 I’m interested in web development, machine learning, and exploring programming languages.
+<br>
 -🌱 I’m currently pursuing engineering and actively learning Python, machine learning, and web development technologies.
+<br>
 -💞️ I’m looking to collaborate on innovative machine learning projects, web development, and real-world applications.
+<br>
 -📫 How to reach me:
      LinkedIn: Raghavendra S Shettigar
      Email: ragha8951@gmail.com
