@@ -7,7 +7,8 @@
 -💞️ I’m looking to collaborate on innovative machine learning projects, web development, and real-world applications.
 <br>
 -📫 How to reach me:
-     LinkedIn: Raghavendra S Shettigar
+     LinkedIn: www.linkedin.com/in/raghavendra-s-shettigar-b465ba24b
+     <br>
      Email: ragha8951@gmail.com
 
 <!---
