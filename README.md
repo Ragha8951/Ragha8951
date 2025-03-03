@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Blockchain research and cyber_security project](-)
 
-- Blockchain and Ai & Ml **using Java, Python, and JavaScript**
+- 🚀 Delving into Blockchain 🔗 and AI & ML, leveraging the power of Java, Python, and JavaScript to drive innovation and solve real-world challenges.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ragha8951](https://github.com/Ragha8951)
 
