@@ -30,10 +30,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/raghavendra-s-shettigar-b465ba24b" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-  alt="LinkedIn - Raghavendra S Shettigar" height="30" width="40" />
-</a>
-
-
+  alt="LinkedIn - Raghavendra S Shettigar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ragha8951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ragha8951" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ragha8951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ragha8951" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ragha9h3l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ragha9h3l" height="30" width="40" /></a>
