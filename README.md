@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web & Machine Learning Enthusiast</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ragha8951" alt="ragha8951" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 - 🔭 I’m currently working on [Blockchain research and cyber_security project](-)
 
