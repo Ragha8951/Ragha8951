@@ -10,15 +10,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ragha8951](https://github.com/Ragha8951)
 
-- 💬 Ask me about **Cricket, trading, and math**
-
 - 🎸 I’m a passionate guitar learner and love discovering new music.
 
 - ♟️ I’m a chess enthusiast who enjoys strategizing and honing problem-solving skills.
 
 - 🏏 I’m a cricket lover who enjoys supporting my favorite teams and players.
 
-- 💞️ I’m looking to collaborate on innovative machine learning projects, web development, and real-world applications.
+- 🫱🏻‍🫲🏼 I’m looking to collaborate on innovative machine learning projects, web development, and real-world applications.
 
 - ✈️ A travel enthusiast, just a 21-year-old navigating life, exploring the world through different perspectives—seeking knowledge and spiritual growth. 🌍✨
 
