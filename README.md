@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm @Raghav</h1>
-<h3 align="center">A passionate Web Developer & Machine Learning Enthusiast</h3>
+<h3 align="center">A passionate Web & Machine Learning Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ragha8951&label=Profile%20views&color=0e75b6&style=flat" alt="ragha8951" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ragha8951" alt="ragha8951" /></a> </p>
 
