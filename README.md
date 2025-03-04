@@ -8,8 +8,6 @@
 
 - 🚀 Delving into Blockchain 🔗 and AI & ML, leveraging the power of Java, Python, and JavaScript to drive innovation and solve real-world challenges.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ragha8951](https://github.com/Ragha8951)
-
 - 🎸 I’m a passionate guitar learner and love discovering new music.
 
 - ♟️ I’m a chess enthusiast who enjoys strategizing and honing problem-solving skills.
