@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
-- 🔭 I’m currently exploring on [Blockchain proj](-)
+- 🔭 I’m currently exploring on [Blockchain ](-)
 
 - 🚀 Delving into Blockchain 🔗 and AI & ML, leveraging the power of Java, Python, and JavaScript to drive innovation and solve real-world challenges.
 
