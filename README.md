@@ -38,16 +38,14 @@
 </p>
 
 ## 📊 GitHub Stats:
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=ragha8951&show_icons=true&theme=dark" alt="ragha8951 GitHub Stats" />
 </p>
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ragha8951&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragha8951&theme=highcontrast&ring=FFD700&fire=00BFFF&currStreakLabel=FFD700&background=000000" alt="GitHub Streak" />
-</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragha8951&" alt="ragha8951" style="background-color: lightblue /></p> 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragha8951&" alt="ragha8951"  /></p> 
