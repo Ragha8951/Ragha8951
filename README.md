@@ -1,4 +1,4 @@
-# Hi 👋, I'm @Raghav
+# Hi 👋, I'm Raghav
 
 ## A passionate Web & Machine Learning Enthusiast
 
@@ -18,17 +18,16 @@
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/raghavendra-s-shettigar-b465ba24b" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-    alt="LinkedIn - Raghavendra S Shettigar" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/ragha8951" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Raghavendra S Shettigar" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/ragha8951" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ragha8951" height="30" width="40" /></a>
-  <a href="https://www.hackerearth.com/@ragha8951" target="blank">
+  <a href="https://www.hackerearth.com/@ragha8951" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ragha8951" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/ragha9h3l" target="blank">
+  <a href="https://auth.geeksforgeeks.org/user/ragha9h3l" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ragha9h3l" height="30" width="40" /></a>
 </p>
 
-## Languages and Tools:
+## 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
@@ -38,12 +37,15 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
 
-## Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragha8951&show_icons=true&locale=en&layout=compact" alt="ragha8951" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragha8951&show_icons=true&locale=en" alt="ragha8951" /></p>
-
+## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragha8951&theme=highcontrast&ring=FFD700&fire=00BFFF&currStreakLabel=FFD700&background=000000" alt="ragha8951" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ragha8951&show_icons=true&theme=dark" alt="ragha8951 GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ragha8951&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragha8951&theme=highcontrast&ring=FFD700&fire=00BFFF&currStreakLabel=FFD700&background=000000" alt="GitHub Streak" />
+</p>
