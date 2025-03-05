@@ -43,4 +43,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragha8951&show_icons=true&locale=en" alt="ragha8951" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragha8951&" alt="ragha8951" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragha8951&theme=highcontrast&ring=FFD700&fire=00BFFF&currStreakLabel=FFD700&background=000000" alt="ragha8951" />
+</p>
+
