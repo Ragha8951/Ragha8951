@@ -49,3 +49,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragha8951&theme=highcontrast&ring=FFD700&fire=00BFFF&currStreakLabel=FFD700&background=000000" alt="GitHub Streak" />
 </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragha8951&" alt="ragha8951" /></p> 
