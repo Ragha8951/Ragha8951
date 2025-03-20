@@ -1,13 +1,13 @@
 # Hi 👋, I'm Raghav
 
-## A passionate Web & Machine Learning Enthusiast
+## A Passionate Web & Machine Learning Enthusiast
 
 - 🚀 Delving into Blockchain 🔗 and AI & ML, leveraging the power of Java, Python, and JavaScript to drive innovation and solve real-world challenges.
 - 🔭 I’m currently exploring [Blockchain ](-)
 - 🫱🏻‍🫲🏼 I’m looking to collaborate on innovative machine learning projects, web development, and real-world applications.
--🎭 Passionate about music, chess strategist, and cricket enthusiast.
+- 🎭 Passionate about music, chess strategist, and cricket enthusiast.
 - ✈️ A travel enthusiast, just a 21-year-old navigating life, exploring the world through different perspectives—seeking knowledge and spiritual growth. 🌍✨
-- ⚡ Fun fact : As a detail-obsessed coder, I have a knack for turning quick tasks into epic quests, overthinking every detail, and delivering engineer-level code under pressure! ✨
+- ⚡ Fun fact: As a detail-obsessed coder, I have a knack for turning quick tasks into epic quests, overthinking every detail, and delivering engineer-level code under pressure! ✨
 
 ## 📫 How to reach me:
 - **LinkedIn:** [www.linkedin.com/in/raghavendra-s-shettigar-b465ba24b](https://www.linkedin.com/in/raghavendra-s-shettigar-b465ba24b)
@@ -36,14 +36,14 @@
 </p>
 
 ## 📊 GitHub Stats:
-<p >
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=ragha8951&show_icons=true&theme=dark" alt="ragha8951 GitHub Stats" />
 </p>
 
-<p >
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ragha8951&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragha8951&" alt="ragha8951"  /></p> 
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragha8951&theme=dark" alt="ragha8951" />
+</p>
