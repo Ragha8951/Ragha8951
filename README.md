@@ -7,7 +7,7 @@
 - 🫱🏻‍🫲🏼 I’m looking to collaborate on innovative machine learning projects, web development, and real-world applications.
 -🎭 Passionate about music, chess strategist, and cricket enthusiast.
 - ✈️ A travel enthusiast, just a 21-year-old navigating life, exploring the world through different perspectives—seeking knowledge and spiritual growth. 🌍✨
-- ⚡ Fun fact ** I turn easy wins into challenges, embrace the grind, and bring engineer-level coding to last-minute deadlines! ✨**
+- ⚡ Fun fact ** As a detail-obsessed coder, I have a knack for turning quick tasks into epic quests, overthinking every detail, and delivering engineer-level code under pressure! ✨**
 
 ## 📫 How to reach me:
 - **LinkedIn:** [www.linkedin.com/in/raghavendra-s-shettigar-b465ba24b](https://www.linkedin.com/in/raghavendra-s-shettigar-b465ba24b)
