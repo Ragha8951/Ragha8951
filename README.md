@@ -5,11 +5,9 @@
 - 🚀 Delving into Blockchain 🔗 and AI & ML, leveraging the power of Java, Python, and JavaScript to drive innovation and solve real-world challenges.
 - 🔭 I’m currently exploring [Blockchain ](-)
 - 🫱🏻‍🫲🏼 I’m looking to collaborate on innovative machine learning projects, web development, and real-world applications.
-- 🎸 I’m a passionate guitar learner and love discovering new music.
-- ♟️ I’m a chess enthusiast who enjoys strategizing and honing problem-solving skills.
-- 🏏 I’m a cricket lover who enjoys supporting my favorite teams and players.
+-🎭 Passionate about music, chess strategist, and cricket enthusiast.
 - ✈️ A travel enthusiast, just a 21-year-old navigating life, exploring the world through different perspectives—seeking knowledge and spiritual growth. 🌍✨
-- ⚡ Fun fact **I plan my life like the cosmos follows its laws, but the universe loves chaos! I never take life too seriously—just like space, I drift through, always finding humor in the randomness. 🌌✨**
+- ⚡ Fun fact ** I turn easy wins into challenges, embrace the grind, and bring engineer-level coding to last-minute deadlines! ✨**
 
 ## 📫 How to reach me:
 - **LinkedIn:** [www.linkedin.com/in/raghavendra-s-shettigar-b465ba24b](https://www.linkedin.com/in/raghavendra-s-shettigar-b465ba24b)
